@@ -1,0 +1,78 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model FrontEnd.Models.UserViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Add new</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Code" class="control-label fw-bold"></label>
+                                    <input asp-for="Code" class="form-control" placeholder="Enter Code" />
+                                    <span asp-validation-for="Code" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group mb-3">
+                                    <label asp-for="FullName" class="control-label fw-bold"></label>
+                                    <input asp-for="FullName" class="form-control" placeholder="Enter Fullname" />
+                                    <span asp-validation-for="FullName" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group mb-3">
+                                    <label asp-for="DateOfBirth" class="control-label fw-bold"></label>
+                                    <input asp-for="DateOfBirth" type="date" class="form-control" />
+                                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Email" class="control-label fw-bold"></label>
+                                    <input asp-for="Email" class="form-control" placeholder="example@mail.com" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group mb-3">
+                                    <label asp-for="PhoneNumber" class="control-label fw-bold"></label>
+                                    <input asp-for="PhoneNumber" class="form-control" placeholder="09xxxx..." />
+                                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Address" class="control-label fw-bold"></label>
+                                    <textarea asp-for="Address" class="form-control" rows="2" placeholder="Enter address"></textarea>
+                                    <span asp-validation-for="Address" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="d-flex justify-content-end gap-2 mt-3">
+                            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                            <button type="submit" class="btn btn-success">Save</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|d:\\lamhai_demo\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|d:\\lamhai_demo\\backend\\backend\\models\\usermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\usermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|d:\\lamhai_demo\\backend\\backend\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|d:\\lamhai_demo\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18DDA256-A192-4122-8DD3-E03788AA3FC9}|BackEnd\\BackEnd.csproj|d:\\lamhai_demo\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,21 +62,19 @@
               "RelativeToolTip": "BackEnd\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:51:20.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:51:20.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\LamHai_Demo\\BackEnd\\BackEnd\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BackEnd\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\LamHai_Demo\\BackEnd\\BackEnd\\Controllers\\UsersController.cs",
               "RelativeToolTip": "BackEnd\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:49:55.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:49:55.392Z"
             },
             {
               "$type": "Document",
@@ -86,14 +84,14 @@
               "RelativeDocumentMoniker": "BackEnd\\Services\\UserService.cs",
               "ToolTip": "D:\\LamHai_Demo\\BackEnd\\BackEnd\\Services\\UserService.cs",
               "RelativeToolTip": "BackEnd\\Services\\UserService.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwD4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wEAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T10:46:56.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\LamHai_Demo\\BackEnd\\BackEnd\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "BackEnd\\Services\\Interfaces\\IUserService.cs",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "BackEnd\\Services\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:46:11.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:46:11.074Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "BackEnd\\DTOs\\UserRequestDto.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA3wBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:39:29.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:39:29.164Z"
             },
             {
               "$type": "Document",
@@ -127,12 +123,11 @@
               "RelativeToolTip": "BackEnd\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-12T10:30:41.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:30:41.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserManagementDbContext.cs",
               "DocumentMoniker": "D:\\LamHai_Demo\\BackEnd\\BackEnd\\Models\\UserManagementDbContext.cs",
               "RelativeDocumentMoniker": "BackEnd\\Models\\UserManagementDbContext.cs",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "BackEnd\\Models\\UserManagementDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:28:25.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:28:25.615Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "BackEnd\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:12:20.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:12:20.916Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "BackEnd\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-12T10:11:23.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T10:11:23.304Z"
             }
           ]
         }

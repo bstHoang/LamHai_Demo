@@ -59,7 +59,10 @@ namespace BackEnd.Services
             {
                 throw new Exception("Exist Code , try new code");
             }
-
+            if (!string.IsNullOrEmpty(request.Email) && await _context.Users.AnyAsync(u => u.Email == request.Email))
+            {
+                throw new Exception("Email has used");
+            }
             user.Code = request.Code;
             user.FullName = request.FullName;
             user.DateOfBirth = request.DateOfBirth;
