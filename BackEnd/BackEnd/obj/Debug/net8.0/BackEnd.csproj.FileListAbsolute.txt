@@ -150,3 +150,5 @@ D:\LamHai_Demo\BackEnd\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
 D:\LamHai_Demo\BackEnd\BackEnd\obj\Debug\net8.0\BackEnd.pdb
 D:\LamHai_Demo\BackEnd\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
 D:\LamHai_Demo\BackEnd\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+D:\LamHai_Demo\BackEnd\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+D:\LamHai_Demo\BackEnd\BackEnd\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
