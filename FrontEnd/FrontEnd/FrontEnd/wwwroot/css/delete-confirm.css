@@ -1,0 +1,109 @@
+﻿/* File: wwwroot/css/delete-confirm.css */
+
+/* Xóa style body cũ đi, thay bằng cái này để không ảnh hưởng Layout chung */
+.full-screen-center {
+    min-height: 80vh; /* Chiếm 80% chiều cao màn hình hiển thị */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.delete-card {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    padding: 40px 30px;
+    text-align: center;
+    width: 100%;
+    max-width: 450px; /* Giới hạn chiều rộng để nhìn gọn hơn */
+    border-top: 5px solid #ff4757;
+    position: relative;
+}
+
+/* Các phần icon, text, button giữ nguyên như cũ */
+.icon-box {
+    width: 80px;
+    height: 80px;
+    background: #ffebee;
+    color: #ff4757;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px auto;
+    font-size: 2.5rem;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(255, 71, 87, 0.4);
+    }
+
+    70% {
+        box-shadow: 0 0 0 10px rgba(255, 71, 87, 0);
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 rgba(255, 71, 87, 0);
+    }
+}
+
+.warning-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #2f3542;
+    margin-bottom: 10px;
+}
+
+.warning-text {
+    color: #747d8c;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.user-name {
+    font-weight: 700;
+    color: #2f3542;
+    background-color: #f1f2f6;
+    padding: 2px 8px;
+    border-radius: 4px;
+}
+
+.btn-delete-confirm {
+    background-color: #ff4757;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-weight: 500;
+    transition: all 0.3s;
+    box-shadow: 0 4px 15px rgba(255, 71, 87, 0.3);
+}
+
+    .btn-delete-confirm:hover {
+        background-color: #ff6b81;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(255, 71, 87, 0.4);
+        color: white;
+    }
+
+.btn-cancel {
+    background-color: #fff;
+    border: 1px solid #ced6e0;
+    color: #57606f;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-weight: 500;
+    margin-left: 10px;
+    text-decoration: none;
+    transition: all 0.3s;
+    display: inline-block;
+}
+
+    .btn-cancel:hover {
+        background-color: #f1f2f6;
+        color: #2f3542;
+    }

@@ -1,37 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\",
+  "WorkspaceRootPath": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\fontend\\frontend\\frontend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\fontend\\frontend\\frontend\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\fontend\\frontend\\frontend\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\fontend\\frontend\\frontend\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\fontend\\frontend\\frontend\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\fontend\\frontend\\frontend\\models\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\wwwroot\\css\\delete-confirm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\wwwroot\\css\\delete-confirm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\wwwroot\\css\\user-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\wwwroot\\css\\user-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\wwwroot\\css\\user-list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\wwwroot\\css\\user-list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\models\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\models\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\fontend\\frontend\\frontend\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\fontend\\frontend\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|d:\\lamhai_demo\\frontend\\frontend\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5490AA3A-FD1E-41DC-82F9-A3B919C68CEF}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +54,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "delete-confirm.css",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\wwwroot\\css\\delete-confirm.css",
+              "RelativeDocumentMoniker": "FrontEnd\\wwwroot\\css\\delete-confirm.css",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\wwwroot\\css\\delete-confirm.css",
+              "RelativeToolTip": "FrontEnd\\wwwroot\\css\\delete-confirm.css",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-12T13:45:50.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "user-form.css",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\wwwroot\\css\\user-form.css",
+              "RelativeDocumentMoniker": "FrontEnd\\wwwroot\\css\\user-form.css",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\wwwroot\\css\\user-form.css",
+              "RelativeToolTip": "FrontEnd\\wwwroot\\css\\user-form.css",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-12T13:42:26.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user-list.css",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\wwwroot\\css\\user-list.css",
+              "RelativeDocumentMoniker": "FrontEnd\\wwwroot\\css\\user-list.css",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\wwwroot\\css\\user-list.css",
+              "RelativeToolTip": "FrontEnd\\wwwroot\\css\\user-list.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-12T13:40:44.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApiErrorResponse.cs",
-              "DocumentMoniker": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Models\\ApiErrorResponse.cs",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Models\\ApiErrorResponse.cs",
               "RelativeDocumentMoniker": "FrontEnd\\Models\\ApiErrorResponse.cs",
-              "ToolTip": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Models\\ApiErrorResponse.cs",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Models\\ApiErrorResponse.cs",
               "RelativeToolTip": "FrontEnd\\Models\\ApiErrorResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,59 +109,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Edit.cshtml",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Edit.cshtml",
               "RelativeDocumentMoniker": "FrontEnd\\Views\\User\\Edit.cshtml",
-              "ToolTip": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Edit.cshtml",
               "RelativeToolTip": "FrontEnd\\Views\\User\\Edit.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwHgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T11:59:33.857Z"
+              "WhenOpened": "2026-01-12T11:59:33.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Delete.cshtml",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Delete.cshtml",
               "RelativeDocumentMoniker": "FrontEnd\\Views\\User\\Delete.cshtml",
-              "ToolTip": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Delete.cshtml",
               "RelativeToolTip": "FrontEnd\\Views\\User\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T11:52:08.229Z"
+              "WhenOpened": "2026-01-12T11:52:08.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Create.cshtml",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "FrontEnd\\Views\\User\\Create.cshtml",
-              "ToolTip": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Create.cshtml",
               "RelativeToolTip": "FrontEnd\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T11:51:41.104Z"
+              "WhenOpened": "2026-01-12T11:51:41.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Index.cshtml",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "FrontEnd\\Views\\User\\Index.cshtml",
-              "ToolTip": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "FrontEnd\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T11:51:15.614Z"
+              "WhenOpened": "2026-01-12T11:51:15.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "FrontEnd\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Controllers\\UserController.cs",
               "RelativeToolTip": "FrontEnd\\Controllers\\UserController.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAswFIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserViewModel.cs",
-              "DocumentMoniker": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Models\\UserViewModel.cs",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Models\\UserViewModel.cs",
               "RelativeDocumentMoniker": "FrontEnd\\Models\\UserViewModel.cs",
-              "ToolTip": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Models\\UserViewModel.cs",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Models\\UserViewModel.cs",
               "RelativeToolTip": "FrontEnd\\Models\\UserViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +186,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Program.cs",
+              "DocumentMoniker": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Program.cs",
               "RelativeDocumentMoniker": "FrontEnd\\Program.cs",
-              "ToolTip": "D:\\LamHai_Demo\\FontEnd\\FrontEnd\\FrontEnd\\Program.cs",
+              "ToolTip": "D:\\LamHai_Demo\\FrontEnd\\FrontEnd\\FrontEnd\\Program.cs",
               "RelativeToolTip": "FrontEnd\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
